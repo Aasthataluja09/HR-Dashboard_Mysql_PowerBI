@@ -11,7 +11,9 @@
 
 **                                                                                                                           **
 
-**Data**- HR data with over 22000 rows 
+**Data**- HR data with over 22000 rows
+
 **Data Cleaning and Analysis**-MySQL jupyter Notebook
+
 **Data Visualization** - Power BI
 
